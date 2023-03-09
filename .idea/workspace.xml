@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbbff5ab-34cc-4597-a00e-1aba058ff487" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/API_Project/DELETE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/API_Project/GET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/API_Project/POST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/API_Project/PUT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/add.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/learn/LearnTestApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learn/LearnTestApi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,21 +48,93 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/Testing carrer/ITI/Auto Project/AutomationTestingProject"
+    "last_opened_file_path": "C:/Users/user/Desktop/Testing carrer/ITI/Auto Project/API-Project"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="LearnTestApi.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.DELETE.test1">
+    <configuration name="DELETE.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="API-Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.*" />
+          <option name="PATTERN" value="API_Project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.learn" />
-      <option name="MAIN_CLASS_NAME" value="com.learn.LearnTestApi" />
+      <option name="PACKAGE_NAME" value="API_Project" />
+      <option name="MAIN_CLASS_NAME" value="API_Project.DELETE" />
       <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GET.test1_GET" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API_Project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="API_Project" />
+      <option name="MAIN_CLASS_NAME" value="API_Project.GET" />
+      <option name="METHOD_NAME" value="test1_GET" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GET.test7_GET" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API_Project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="API_Project" />
+      <option name="MAIN_CLASS_NAME" value="API_Project.GET" />
+      <option name="METHOD_NAME" value="test7_GET" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GET.test9_GET" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API_Project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="API_Project" />
+      <option name="MAIN_CLASS_NAME" value="API_Project.GET" />
+      <option name="METHOD_NAME" value="test9_GET" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POST.test1_GET" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API_Project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="API_Project" />
+      <option name="MAIN_CLASS_NAME" value="API_Project.POST" />
+      <option name="METHOD_NAME" value="test1_GET" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -68,7 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LearnTestApi.test1" />
+        <item itemvalue="TestNG.DELETE.test1" />
+        <item itemvalue="TestNG.POST.test1_GET" />
+        <item itemvalue="TestNG.GET.test1_GET" />
+        <item itemvalue="TestNG.GET.test9_GET" />
+        <item itemvalue="TestNG.GET.test7_GET" />
       </list>
     </recent_temporary>
   </component>
@@ -88,12 +168,53 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/com/learn/LearnTestApi.java</url>
-          <line>11</line>
+          <line>12</line>
           <properties class="com.learn.LearnTestApi" method="test1">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/API_Project/GET.java</url>
+          <line>28</line>
+          <properties class="API_Project.GET" method="test3_GET">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/API_Project/GET.java</url>
+          <line>49</line>
+          <properties class="API_Project.GET" method="test5_GET">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/API_Project/GET.java</url>
+          <line>92</line>
+          <properties class="API_Project.GET" method="test9_GET">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/API_Project/DELETE.java</url>
+          <line>9</line>
+          <properties class="API_Project.DELETE" method="test1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/API_Project/GET.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
