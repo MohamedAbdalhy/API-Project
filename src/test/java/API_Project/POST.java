@@ -20,7 +20,7 @@ public class POST {
                 .when().post("Tasks")
                 .then().log().all()
                 .assertThat().statusCode(201)
-                .assertThat().body("[0].id",is(equalTo("15")),"name",hasItem("Mohamed Abdalhy"))
+                .assertThat().body("[0].id",is(equalTo("15")),"name",hasItem("Eslam Elsayed"))
         ;
     }
 

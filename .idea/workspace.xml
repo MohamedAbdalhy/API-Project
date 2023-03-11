@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbbff5ab-34cc-4597-a00e-1aba058ff487" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/API_Project/DELETE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/API_Project/GET.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/API_Project/POST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/API_Project/PUT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/add.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/learn/LearnTestApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/learn/LearnTestApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API_Project/POST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API_Project/POST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/add.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/add.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,32 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/Testing carrer/ITI/Auto Project/API-Project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/Testing carrer/ITI/Auto Project/API-Project&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG.DELETE.test1">
-    <configuration name="DELETE.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="API-Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="API_Project.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="API_Project" />
-      <option name="MAIN_CLASS_NAME" value="API_Project.DELETE" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="TestNG.POST.test1_GET">
     <configuration name="GET.test1_GET" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="API-Project" />
       <extension name="coverage">
@@ -81,6 +59,24 @@
       <option name="PACKAGE_NAME" value="API_Project" />
       <option name="MAIN_CLASS_NAME" value="API_Project.GET" />
       <option name="METHOD_NAME" value="test1_GET" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GET.test3_GET" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="API-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API_Project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="API_Project" />
+      <option name="MAIN_CLASS_NAME" value="API_Project.GET" />
+      <option name="METHOD_NAME" value="test3_GET" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -106,7 +102,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GET.test9_GET" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GET.test8_GET" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="API-Project" />
       <extension name="coverage">
         <pattern>
@@ -116,7 +112,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="API_Project" />
       <option name="MAIN_CLASS_NAME" value="API_Project.GET" />
-      <option name="METHOD_NAME" value="test9_GET" />
+      <option name="METHOD_NAME" value="test8_GET" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -144,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DELETE.test1" />
         <item itemvalue="TestNG.POST.test1_GET" />
-        <item itemvalue="TestNG.GET.test1_GET" />
-        <item itemvalue="TestNG.GET.test9_GET" />
+        <item itemvalue="TestNG.GET.test8_GET" />
         <item itemvalue="TestNG.GET.test7_GET" />
+        <item itemvalue="TestNG.GET.test3_GET" />
+        <item itemvalue="TestNG.GET.test1_GET" />
       </list>
     </recent_temporary>
   </component>
