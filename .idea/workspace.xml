@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbbff5ab-34cc-4597-a00e-1aba058ff487" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/API_Project/POST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API_Project/POST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/add.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/add.json" afterDir="false" />
-    </list>
+    <list default="true" id="dbbff5ab-34cc-4597-a00e-1aba058ff487" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,13 +36,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/Testing carrer/ITI/Auto Project/API-Project&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/Testing carrer/ITI/Auto Project/AutomationTestingProject"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="TestNG.POST.test1_GET">
     <configuration name="GET.test1_GET" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="API-Project" />
